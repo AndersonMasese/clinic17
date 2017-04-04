@@ -1,0 +1,6 @@
+The primes.py function runs with O(n^2)
+innitialisation of the count object=n
+single while loop is n
+a for loop nested inside a while loop takes nxn
+so finally we have n+n+n*n+n=n^2+2n
+ignoring the 2n since it's insignificant yields o(n2)
